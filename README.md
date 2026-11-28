@@ -49,4 +49,4 @@ changes bump the major version.
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+Public domain ([Unlicense](https://unlicense.org)) — see [LICENSE](LICENSE).
